@@ -1,0 +1,7 @@
+{
+  "name": "COMET: AI Voice Agent",
+  "description": "An advanced AI Voice, Dubbing & Translation Agent for high-quality voice cloning, dubbing, and text-to-speech, focused on speed, accuracy, and original voice preservation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
